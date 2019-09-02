@@ -1,4 +1,4 @@
-class Person 
+class Person
   ##constructor
   def initialize name
     @name = name
